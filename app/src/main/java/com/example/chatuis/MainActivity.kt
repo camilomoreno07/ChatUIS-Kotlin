@@ -9,5 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    val n=0
+    val n='Coma mierda'
 }
