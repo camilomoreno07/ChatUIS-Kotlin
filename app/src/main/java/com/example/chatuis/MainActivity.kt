@@ -8,10 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
-        var n = "Triple malparido"
-        n = n + "sarnoso"
-        print(n)
     }
 
 
