@@ -8,15 +8,17 @@ import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
     lateinit var textUsuario: EditText
+    lateinit var textContraseña: EditText
     lateinit var btn_ingresar: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         textUsuario = findViewById(R.id.usuario)
+        textContraseña = findViewById(R.id.contraseña)
         btn_ingresar = findViewById(R.id.boton)
         btn_ingresar.setOnClickListener{
-            Toast.makeText(this, textUsuario.text, Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, textContraseña.text, Toast.LENGTH_SHORT).show()
         }
     }
 
