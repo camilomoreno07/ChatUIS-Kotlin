@@ -30,8 +30,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac3bd300-9324-4731-9f68-31ae8577c8e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/ChatUIS.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/ChatUIS.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +46,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[fe44c385]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -66,8 +74,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_4_API_29" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-18T00:54:17.623Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="fe44c385" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-04-18T00:58:49.158Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -226,10 +234,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="707" y="135" key="#Proyecto_Redes.ChatUIS.app" timestamp="1618707114937">
+    <state x="707" y="135" key="#Proyecto_Redes.ChatUIS.app" timestamp="1618709125618">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="707" y="135" key="#Proyecto_Redes.ChatUIS.app/0.0.1920.1080@0.0.1920.1080" timestamp="1618707114937" />
+    <state x="707" y="135" key="#Proyecto_Redes.ChatUIS.app/0.0.1920.1080@0.0.1920.1080" timestamp="1618709125618" />
     <state x="621" y="142" key="#app" timestamp="1618360937147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -238,22 +246,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="341" y="141" width="1200" height="800" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1618361492881" />
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1618706875891">
+    <state x="493" y="344" key="AndroidCreateResourceDirectoryDialog" timestamp="1618707592399">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1618706875891" />
-    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1618706875891">
+    <state x="493" y="344" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1618707592399" />
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1618709519074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1618706875891" />
-    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1618706875891">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1618709519074" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1618709519074">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1618706875891" />
-    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1618706875891">
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1618709519074" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1618709519073">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1618706875891" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1618709519073" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1618709519074">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1618709519074" />
     <state x="413" y="201" key="SettingsEditor" timestamp="1618361380933">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
